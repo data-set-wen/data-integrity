@@ -1,2 +1,2 @@
 # data-integrity
-try for an intership
+try for an internship
